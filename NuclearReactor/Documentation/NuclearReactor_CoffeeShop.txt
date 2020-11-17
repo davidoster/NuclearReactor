@@ -1,0 +1,37 @@
+NuclearReactor
+	Coffee Shop Amsterdam
+		W. Coffee for Workers 	| 2.14
+			1. Working Crazy 	| B + 0.72
+			2. Working Mad 		| B + 0.54
+			3. Working Fast 	| B + 0.21
+
+		B. Coffee for Barbers 	| 1.28
+			1. Long Haircut 	| B + 0.02
+			2. Short Haircut 	| B + 0.02
+			3. No haircut 		| B + 0.02
+
+		S. Coffee for Parents	| 0.34
+			1. I don't study 	| B
+			2. We don't study 	| B
+			3. You don't study	| B
+
+
+CoffeShop
+CoffeWorkers
+CoffeeBarbers
+CoffeeStudents
+
+Models
+	NuclearReactor
+		CoffeeShop
+		Coffee
+		SpecialCoffee
+
+CoffeeShopAmsterdam
+CoffeeForWorker
+CoffeeForBarber
+CoffeeForStudent
+
+
+		
+	
